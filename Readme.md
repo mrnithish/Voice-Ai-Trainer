@@ -26,7 +26,7 @@ Before running the script, make sure you have:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/exercise-detection.git
+git clone [https://github.com/yourusername/exercise-detection.git](https://github.com/mrnithish/Voice-Ai-Trainer.git)
 ```
 
 2. Navigate to the project directory:
