@@ -11,6 +11,8 @@ This Python script uses OpenCV to detect specific exercises and count the number
 - **Repetition Counting**: It counts the number of repetitions performed for each exercise.
 - **Real-Time Feedback**: Provides real-time feedback on exercise form and repetition count.
 - **Requirements File**: A `requirements.txt` file is included to easily install the necessary libraries.
+- **Voice Recognition**: Provides exercise instructions using voice commands.
+- **Emotion Recognition**: Offers real-time feedback on the user's emotions during exercise.
 
 ## Prerequisites
 
