@@ -32,7 +32,7 @@ git clone https://github.com/mrnithish/Voice-Ai-Trainer.git
 2. Navigate to the project directory:
 
 ```bash
-cd exercise-detection
+cd NithishProject
 ```
 
 3. Install the required libraries using `pip`:
