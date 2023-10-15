@@ -55,7 +55,7 @@ python Friday.py
 
 ## Configuration
 
-You can customize the script to detect different exercises by modifying the exercise recognition logic in the `exercise_detection.py` file.
+You can customize the script to detect different exercises by modifying the exercise recognition logic in the `Friday.py` file.
 
 ## Contributing
 
